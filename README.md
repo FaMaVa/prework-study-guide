@@ -1,2 +1,23 @@
-# prework-study-guide
-A study guide to the Prework section of my Full Stack coding bootcamp at the University of Denver.
+x# <Your-Project-Title>
+
+## Description
+
+A Website created for coding bootcamp students at the University of Denver to study the Prework section of the course. It include notes over four topics: HTML, CSS, Git, and JavaScript.
+
+
+## Installation
+
+N/A
+
+## Usage
+
+To use this Website read the notes in the sections labeled: HTML, CSS, Git, and JavaScript. 
+For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repository
